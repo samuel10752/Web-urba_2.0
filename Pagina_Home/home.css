@@ -2,7 +2,7 @@
 
     /* navbar  */
    position: absolute;
-   height: 90px;
+   height: 120px;
    left: 0px;
    top: 0px;
 }
@@ -13,8 +13,8 @@
     /* navbar imagem */
 
     position: absolute;
-    width: 201.47px;
-    height: 207.35px;
+    width: 291.47px;
+    height: 297.35px;
     left: 0px;
     top: -30px;
 
@@ -27,13 +27,13 @@
     position: absolute;
     width: 100px;
     height: 43px;
-    left: 149.47px;
-    top: 25px;
+    left: 200.47px;
+    top: 59px;
     
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 600;
-    font-size: 36px;
+    font-size: 56px;
     line-height: 59px;
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@
     flood-color: #fff;
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -77,7 +77,7 @@
    flood-color: #fff;
    font-style: normal;
    font-weight: 400;
-   font-size: 20px;
+   font-size: 40px;
    line-height: 32px;
 
 
@@ -98,7 +98,7 @@
    flood-color: #fff;
    font-style: normal;
    font-weight: 400;
-   font-size: 20px;
+   font-size: 40px;
    line-height: 32px;
 
 
@@ -118,7 +118,7 @@
    flood-color: #fff;
    font-style: normal;
    font-weight: 400;
-   font-size: 20px;
+   font-size: 40px;
    line-height: 32px;
 
 
@@ -138,58 +138,42 @@
    flood-color: #fff;
    font-style: normal;
    font-weight: 400;
-   font-size: 20px;
+   font-size: 40px;
    line-height: 32px;
 
 
 }
-.lh-3 a{ 
+.lh-3 { 
 
     /* navbar  */
 
-   position: absolute;
-   width: 72px;
-   height: 32px;
-   left: 700px;
-   top: 30px;
-
-   font-family: 'Axiforma';
-   flood-color: #fff;
-   font-style: normal;
-   font-weight: 400;
-   font-size: 20px;
-   line-height: 32px;
-
-
-}
-
-.fs-1 {
-
     position: absolute;
-    width: 1539px;
-    height: 1904px;
-    left: 810px;
+    width: 1039px;
+    height: 1004px;
+    left: 700px;
     top: 193px;
 
     font-family: 'Calibri';
     font-style: normal;
     font-weight: 600;
-    font-size: 64px;
+    font-size: 84px;
     line-height: 104px;
+
 }
+
 
 .lh-1 {
 
     position: absolute;
-    width: 894px;
+    width: 1494px;
     height: 38px;
-    left: 510px;
+    left: 210px;
     top: 309px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 44px;
     line-height: 38px;
 }
 
@@ -198,13 +182,13 @@
     position: absolute;
     width: 894px;
     height: 38px;
-    left: 690px;
-    top: 339px;
+    left: 490px;
+    top: 369px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
+    font-size: 44px;
     line-height: 38px;
 }
 
@@ -264,10 +248,10 @@
 .cor_2{
     
     position: absolute;
-    width: 310px;
+    width: 410px;
     height: 50px;
     left: 710px;
-    top: 537px;
+    top: 560px;
     
     background: rgba(20, 20, 20, 0.86);
 }
@@ -275,7 +259,7 @@
 .cor_2 h1{
     
     position: absolute;
-    width: 345px;
+    width: 545px;
     height: 34px;
     left: 22px;
     top: 8px;
@@ -350,10 +334,10 @@
 .cor_4{
     
     position: absolute;
-    width: 310px;
-    height: 50px;
+    width: 360px;
+    height: 60px;
     left: 64px;
-    top: 980px;
+    top: 1010px;
     
     background: rgba(20, 20, 20, 0.86);
 }
@@ -429,7 +413,7 @@
     width: 419px;
     height: 420px;
     left: 1357px;
-    top: 855px;
+    top: 410px;
     
 }
 
@@ -439,7 +423,7 @@
     width: 310px;
     height: 50px;
     left: 1357px;
-    top: 980px;
+    top: 560px;
     
     background: rgba(20, 20, 20, 0.86);
 }
@@ -515,7 +499,7 @@
     width: 419px;
     height: 420px;
     left: 710px;
-    top: 1299px;
+    top: 855px;
     
 }
 
@@ -523,9 +507,9 @@
     
     position: absolute;
     width: 310px;
-    height: 50px;
+    height: 60px;
     left: 710px;
-    top: 1443px;
+    top: 1010px;
     
     background: rgba(20, 20, 20, 0.86);
 }
@@ -558,17 +542,17 @@
     width: 419px;
     height: 420px;
     left: 1357px;
-    top: 1299px;
+    top: 855px;
     
 }
 
 .cor_9{
     
     position: absolute;
-    width: 310px;
-    height: 50px;
+    width: 320px;
+    height: 60px;
     left: 1357px;
-    top: 1443px;
+    top: 1010px;
     
     background: rgba(20, 20, 20, 0.86);
 }
@@ -578,7 +562,7 @@
     position: absolute;
     width: 345px;
     height: 34px;
-    left: 115px;
+    left: 5px;
     top: 8px;
     
     font-family: 'Axiforma';
@@ -601,7 +585,7 @@
     width: 1930px;
     height: 242px;
     right: 0px;
-    top: 2000px;
+    top: 1500px;
     bottom: 0px;
 }
 
@@ -638,8 +622,8 @@
 
     position: absolute;
     width: 185px;
-    height: 32px;
-    right: 900px;
+    height: 0px;
+    right: 830px;
     bottom: 48px;
 
     font-family: 'Axiforma';
@@ -664,7 +648,7 @@
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -673,13 +657,13 @@
     position: absolute;
     width: 185px;
     height: 32px;
-    right: 1000px;
+    right: 980px;
     top: 60px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -688,13 +672,13 @@
     position: absolute;
     width: 185px;
     height: 32px;
-    right: 800px;
+    right: 750px;
     top: 60px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -703,13 +687,13 @@
     position: absolute;
     width: 185px;
     height: 32px;
-    right: 450px;
+    right: 550px;
     top: 60px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 32px;
 }
 
@@ -718,37 +702,23 @@
     position: absolute;
     width: 185px;
     height: 32px;
-    right: 250px;
+    right: 350px;
     top: 60px;
 
     font-family: 'Axiforma';
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 32px;
 }
 
-.d-bloc{
-
-    position: absolute;
-    width: 1185px;
-    height: 32px;
-    left: 600px;
-    top: 125px;
-
-    font-family: 'Axiforma';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 90px;
-    line-height: 32px;
-}
 
 .top img{
 
     position: absolute;
     width: 230px;
     height: 48px;
-    top: 2136px;
+    top: 1640px;
     left: 1646px;
 }
 
@@ -757,7 +727,7 @@
     position: absolute;
     width: 36px;
     height: 36px;
-    top: 2152px;
+    top: 1630px;
     left: 105px;
 }
 #face{
@@ -765,7 +735,7 @@
     position: absolute;
     width: 36px;
     height: 36px;
-    top: 2152px;
+    top: 1630px;
     left: 145px;
 }
 #link{
@@ -773,7 +743,7 @@
     position: absolute;
     width: 36px;
     height: 36px;
-    top: 2152px;
+    top: 1630px;
     left: 185px;
 }
 #insta{
@@ -781,7 +751,7 @@
     position: absolute;
     width: 36px;
     height: 36px;
-    top: 2152px;
+    top: 1630px;
     left: 225px;
 }
 

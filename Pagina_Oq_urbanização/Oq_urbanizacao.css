@@ -1,0 +1,315 @@
+.navbar-dark {
+
+    /* navbar  */
+   position: absolute;
+   height: 120px;
+   left: 0px;
+   top: 0px;
+}
+
+
+.navbar-brand img{
+
+    /* navbar imagem */
+
+    position: absolute;
+    width: 291.47px;
+    height: 297.35px;
+    left: 0px;
+    top: -30px;
+
+}
+
+.navbar-brand h1{
+
+    /* navbar imagem */
+
+    position: absolute;
+    width: 100px;
+    height: 43px;
+    left: 200.47px;
+    top: 59px;
+    
+    font-family: 'Axiforma';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    
+    /* Glare Black */
+    
+    color: #141414;
+    
+
+}
+
+.container-fluid a{
+
+     /* navbar  */
+
+    position: absolute;
+    width: 72px;
+    height: 32px;
+    left: 550px;
+    top: -63px;
+
+    font-family: 'Axiforma';
+    flood-color: #fff;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 32px;
+}
+
+.container-fluid aa{
+
+    /* navbar  */
+
+   position: absolute;
+   width: 72px;
+   height: 32px;
+   left: 750px;
+   top: -63px;
+
+   font-family: 'Axiforma';
+   flood-color: #fff;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 32px;
+
+
+}
+
+
+.container-fluid aaa{
+
+    /* navbar  */
+
+   position: absolute;
+   width: 72px;
+   height: 32px;
+   left: 950px;
+   top: -63px;
+
+   font-family: 'Axiforma';
+   flood-color: #fff;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 32px;
+
+
+}
+
+.container-fluid aaaa{
+
+    /* navbar  */
+
+   position: absolute;
+   width: 72px;
+   height: 32px;
+   left: 1200px;
+   top: -63px;
+
+   font-family: 'Axiforma';
+   flood-color: #fff;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 32px;
+
+
+}
+
+.container-fluid aaaaa{
+
+    /* navbar  */
+
+   position: absolute;
+   width: 72px;
+   height: 32px;
+   left: 1500px;
+   top: -63px;
+
+   font-family: 'Axiforma';
+   flood-color: #fff;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 40px;
+   line-height: 32px;
+
+
+}
+
+.img img{
+    /* image_fundo */
+
+    position: absolute;
+    width: 1442px;
+    height: 495px;
+    left: 253px;
+    top: 140px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.cor_1{
+
+    position: absolute;
+    width: 253px;
+    height: 495px;
+    left:0px;
+    top: 140px;
+    
+    background: rgba(10, 173, 218, 0.86);
+}
+.cor_2{
+
+    position: absolute;
+    width: 210px;
+    height: 495px;
+    left: 1690px;
+    top: 140px;
+    
+    background: rgba(10, 173, 218, 0.86);
+}
+
+.txt_1 h1{
+
+    position: absolute;
+    width: 892px;
+    height: 137px;
+    left: 626px;
+    top: 657px;
+
+    font-family: 'Istok Web';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 92px;
+
+    color: #000000;
+
+}
+
+.col-1 img{
+
+    position: absolute;
+    width: 800px;
+    height: 826px;
+    left: 82px;
+    top: 1100px;
+
+    border-radius: 22px;
+}
+
+.col-2 img{
+
+    position: absolute;
+    width: 826px;
+    height: 670px;
+    left: 949px;
+    top: 1140px;
+
+    border-radius: 22px;
+
+}
+
+.txt_2 p{
+
+    position: absolute;
+    width: 1750px;
+    height: 226px;
+    left: 86px;
+    top: 826px;
+
+    font-family: 'K2D';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 52px;
+
+}
+
+.col-3 img{
+
+    position: absolute;
+    width: 800px;
+    height: 826px;
+    left: 82px;
+    top: 1876px;
+
+    border-radius: 22px;
+}
+
+.col-4 img{
+
+    position: absolute;
+    width: 800px;
+    height: 790px;
+    left: 949px;
+    top: 1876px;
+
+    border-radius: 22px;
+
+}
+
+.txt_3 h1{
+
+    position: absolute;
+    width: 1750px;
+    height: 226px;
+    left: 626px;
+    top: 2800px;
+
+    font-family: 'K2D';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 52px;
+
+}
+
+.cor_3 {
+
+    position: absolute;
+    width: 1840px;
+    height: 1566px;
+    left: 40px;
+    top: 2750px;
+
+    background: #BBDEFB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.list-inline-item {
+    
+    position: absolute;
+    width: 1850px;
+    height: 226px;
+    left: 1206px;
+    top: 3270px;
+
+    font-family: 'K2D';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 52px;
+}
+
+.col-5 img{
+
+    position: absolute;
+    width: 988px;
+    height: 624px;
+    left: 139px;
+    top: 3005px;
+
+    border: 5px solid #000000;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 22px;
+
+}
