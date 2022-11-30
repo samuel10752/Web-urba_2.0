@@ -144,23 +144,22 @@
 
 }
 
-.img img{
+.video iframe{
     /* image_fundo */
 
     position: absolute;
-    width: 1442px;
+    width: 900px;
     height: 495px;
-    left: 253px;
-    top: 140px;
+    left: 450px;
+    top: 4px;
 
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 
 }
 
 .cor_1{
 
     position: absolute;
-    width: 253px;
+    width: 460px;
     height: 495px;
     left:0px;
     top: 140px;
@@ -170,9 +169,9 @@
 .cor_2{
 
     position: absolute;
-    width: 210px;
+    width: 560px;
     height: 495px;
-    left: 1690px;
+    left: 1342px;
     top: 140px;
     
     background: rgba(10, 173, 218, 0.86);
